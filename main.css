@@ -1,0 +1,29 @@
+div {
+    box-sizing: border-box;
+}
+
+.title  {
+    display: flex;
+    align-items:center;
+}
+
+.img1 {
+    width: 470px;
+}
+
+.price p {
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.price span {
+    color: silver;
+}
+
+.discribe-title {
+    text-align: center;
+}
+
+.discibe {
+    display: flex;
+}
