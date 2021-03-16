@@ -27,3 +27,15 @@ div {
 .discibe {
     display: flex;
 }
+
+.composition {
+    width: 50%;
+}
+
+.title span {
+    font-weight: bold;
+}
+
+.title p {
+    margin: auto;
+}
